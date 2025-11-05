@@ -13,5 +13,8 @@
     "creation"
   ],
   "author": "prajwal",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
 }
